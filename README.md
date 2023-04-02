@@ -1,0 +1,38 @@
+# Recruitment Resources : Freshers
+
+This is a curated list of resources for the first yearites for the upcoming recruitment test.
+
+### Web2
+* [JavaScript Basics](https://www.w3schools.com/js/)
+    * Variables, Data Types
+    * If-else blocks, Switch Statements
+    * JavaScript Loops
+    * Functions
+    * Async Functions
+    * Callbacks
+
+### Bitcoin
+* [Bitcoin-SV-Course](https://bitcoinsv.academy/course/bitcoin-theory) (upto Chapter-7 atleast)
+
+### Ethereum
+* [Bitcoin vs Ethereum](https://www.simplilearn.com/tutorials/blockchain-tutorial/ethereum-vs-bitcoin)
+* [Ethereum Development Documentation](https://ethereum.org/en/developers/docs/): Cover all the Foundational Topics
+* Solidity Language: (any one of the following)
+    * [Cryptozombies](https://cryptozombies.io/en/course/) (First Six Modules)
+    * [Solidity by Example](https://solidity-by-example.org/)
+* Decentralized Finance (DeFi)
+    * Decentralized Exchanges (DEXs) like [Uniswap](https://uniswap.org/)
+    * Lending/Borrowing Protocols ([AAVE](https://aave.com/), [Compound](https://compound.finance/))
+    * Stablecoins (USDC, USDT, BUSD etc.)
+    * You can checkout the whitepapers given in the repo for better explaination
+    * **Youtube Channels you can follow, to learn more about DeFi :** [Finematics](https://www.youtube.com/@Finematics), [WhiteBoard Crypto](https://www.youtube.com/@WhiteboardCrypto), [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
+* [Freecodecamp Lecture by Patrick Collins](https://www.youtube.com/watch?v=gyMwXuJrbJQ) (Cover Basics of Blockchain). Also, if someone wants to learn more, can watch the complete video.
+
+
+### Additional Resources for Bitcoin (Not meant for Recruitment)
+*[Bitcoin SV
+* [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+* [Mastering the Lightning Network](https://github.com/lnbook/lnbook)
+* [Lighning Network Paper](https://lightning.network/lightning-network-paper.pdf)
+* [Bitcoin Search (in Beta)](https://bitcoinsearch.xyz/) 
