@@ -1,8 +1,11 @@
-# Recruitment Resources : Freshers
+# Learning Resources
 
-This is a curated list of resources for the first yearites for the upcoming recruitment test.
+This is a curated list of resources for the upcoming selections. You can also use it to learn more about blockchain and cryptocurrency development.
 
 ### Web2
+
+Web2 is used for creating the frontends of web3 apps. We don't require you to learn it in depth (although having a knowledge of frameworks like React, Vue, etc. are highly welcome), but just familiarize yourself with the JS language if you don't know already.
+
 * [JavaScript Basics](https://www.w3schools.com/js/)
     * Variables, Data Types
     * If-else blocks, Switch Statements
@@ -12,9 +15,11 @@ This is a curated list of resources for the first yearites for the upcoming recr
     * Callbacks
 
 ### Bitcoin
-* [Bitcoin-SV-Course](https://bitcoinsv.academy/course/bitcoin-theory) (upto Chapter-7 atleast)
+
+* [Grokking Bitcoin](https://rosenbaum.se/book/grokking-bitcoin.html) (Recommended: upto chapter 9)
 
 ### Ethereum
+
 * [Bitcoin vs Ethereum](https://www.simplilearn.com/tutorials/blockchain-tutorial/ethereum-vs-bitcoin)
 * [Ethereum Development Documentation](https://ethereum.org/en/developers/docs/): Cover all the Foundational Topics
 * Solidity Language: (any one of the following)
@@ -28,9 +33,10 @@ This is a curated list of resources for the first yearites for the upcoming recr
     * **Youtube Channels you can follow, to learn more about DeFi :** [Finematics](https://www.youtube.com/@Finematics), [WhiteBoard Crypto](https://www.youtube.com/@WhiteboardCrypto), [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
 * [Freecodecamp Lecture by Patrick Collins](https://www.youtube.com/watch?v=gyMwXuJrbJQ) (Cover Basics of Blockchain). Also, if someone wants to learn more, can watch the complete video.
 
+---
 
-### Additional Resources for Bitcoin (Not meant for Recruitment)
-*[Bitcoin SV
+### Additional Resources (optional)
+* [Bitcoin SV Course](https://bitcoinsv.academy/course/bitcoin-theory)
 * [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Mastering the Lightning Network](https://github.com/lnbook/lnbook)
